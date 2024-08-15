@@ -17,3 +17,7 @@ GratiFlow is a web application, which I designed to help others cultivate gratit
 * **src/pages** contains the main pages of the application, including `Dashboard.js`, `Entries.js`, `Profile.js`, etc.
 
 ## How to Run the Project
+
+## Video Demonstration
+
+## Additional Information
