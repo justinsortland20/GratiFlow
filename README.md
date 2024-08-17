@@ -26,7 +26,7 @@ GratiFlow is a web application, which I designed to help others cultivate gratit
 cd path/to/extracted-folder
 ```
 
-3. (optional) Install Node.js if it's not already installed on your machine. Follow the instructions (https://wwww.nodejs.org/en/download/package-manager)[here].
+3. (optional) Install Node.js if it's not already installed on your machine. Follow the instructions [here](https://wwww.nodejs.org/en/download/package-manager).
 
 4. Install the dependencies.
 
