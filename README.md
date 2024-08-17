@@ -57,10 +57,11 @@ The command above will start the development server, and the application will be
 
 ## Video Demonstration
 
-You can watch a video demostration of the project here: [INSERT LINK WHEN DONE]
+You can watch a video demostration of the project [here]().
 
 ## Additional Information
 
-* **Dependencies**: This project uses React, Firebase, Chart.js, Tailwind CSS, and Sentiment among other libraries.
+* **Dependencies**: This project uses the following dependencies:
+  * gdhghghd
 
 * **Contact**: If you have any questions, feel free to reach out to me at `justinsortland2025@u.northwestern.edu`.
