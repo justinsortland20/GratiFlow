@@ -18,25 +18,27 @@ GratiFlow is a web application, which I designed to help others cultivate gratit
 
 ## How to Run the Project
 
-1. Extract files
+1. Extract the provided files to your local machine.
 
-2. Navigate to project directory
+2. Navigate to the project directory.
 
 ```
 cd path/to/extracted-folder
 ```
 
-3. (optional) Install Node.js, if not already installed on your machine
+3. (optional) Install Node.js, if it's not already installed on your machine.
 
-4. Install dependencies
+4. Install the dependencies.
 
 ```
 npm install
 ```
 
-6. Set up Firebase
+6. Set up Firebase.
 
-7. Run the application
+* 
+
+8. Run the application.
 
 ## Video Demonstration
 
