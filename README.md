@@ -62,6 +62,23 @@ You can watch a video demostration of the project [here]().
 ## Additional Information
 
 * **Dependencies**: This project uses the following dependencies:
-  * gdhghghd
+  
+  * React
+ 
+  * Firebase
+ 
+  * React Router DOM
+ 
+  * Tailwind CSS
+ 
+  * Chart.js
+ 
+  * React Wrapper
+ 
+  * Date-fns
+ 
+  * React Datepicker
+ 
+  * Sentiment
 
 * **Contact**: If you have any questions, feel free to reach out to me at `justinsortland2025@u.northwestern.edu`.
