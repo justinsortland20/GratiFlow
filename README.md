@@ -36,10 +36,31 @@ npm install
 
 6. Set up Firebase.
 
-* 
+* Create a Firebase project in the Firebase console
+
+* Within root folder, create folder called `firebase`
+
+* Within newly created `firebase` folder, create new JS file called `firebase.js`
+
+* Copy Firebase configuration details provided by Firebase after creating project
+
+* Replace Firebase configuration into newly created `firebase.js` file with pasted details
+
+* Enable Email/Password and Google authentication in Firebase Authentication
 
 8. Run the application.
 
+```
+npm start
+```
+The command above will start the development server, and the application will be accessible at `https://localhost:3000`. If it a prompt appears, requesting that you use a different port, click yes and it will still be accessible at `https://localhost:RANDOM_PORT_NUMBER_PROVIDED`.
+
 ## Video Demonstration
 
+You can watch a video demostration of the project here: [INSERT LINK WHEN DONE]
+
 ## Additional Information
+
+* **Dependencies**: This project uses React, Firebase, Chart.js, Tailwind CSS, and Sentiment among other libraries.
+
+* **Contact**: If you have any questions, feel free to reach out to me at `justinsortland2025@u.northwestern.edu`.
