@@ -48,7 +48,7 @@ npm install
 
 * Enable Email/Password and Google authentication in Firebase Authentication
 
-8. Run the application.
+8. In the project directory, run the application with the command below.
 
 ```
 npm start
