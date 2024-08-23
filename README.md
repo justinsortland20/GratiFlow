@@ -20,7 +20,7 @@ GratiFlow is a web application, which I designed to help others cultivate gratit
 
 1. Extract the provided files to your local machine.
 
-2. Navigate to the project directory.
+2. Navigate to the project directory (should be in the same directory as this README, alongside the `src` and `public` folders).
 
 ```
 cd path/to/extracted-folder
